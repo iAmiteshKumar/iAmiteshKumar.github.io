@@ -1,10 +1,14 @@
 > **Amitesh** **Kumar**
-> Total Years of Experience: 15 Years
+
+**Information** 
+
+> Total Years of Experience: 13 Years
 >
 > Contact Detail: <u><iAmiteshKr@gmail.com>,</u> +91 9599806564,
-> Freelancer, Remote, IN
+> Freelancer, Remote
 
-15 Years of Development experience in Network and Cryptography
+
+13 Years of Development experience in Network and Cryptography
 programming in c. Since more than 5 years doing complete development of
 product in networking and cryptography domain (mostly alone). Worked on
 Various other domains like Video Streaming, Machine Learning, Android
@@ -82,6 +86,12 @@ Secure Boot and Trusted OS (TEE) on ARM and RISC-V based GPU.
 > **work** for customizing initrd/rootfs and securing it using TPM,
 > LUKS, Clevis, PKI signing, PBKDF, PKCS \#5, PKCS \#11
 
+
+>
+>
+>
+
+
 > **Skills**
 >
 > **Operating** **System** **Programming** **languages** **Scripting**
@@ -106,6 +116,14 @@ buildroot, wireshark, tcpdump, QEMU, OpenWRT, Tensorflow, Keras, STB,
 ffmpeg, gstreamer, libpcap, libcurl, ACME, x509, PKCS 11, grub,
 
 LUKS, clevis, coreboot, nginx, caddy, tokio, zig
+
+
+
+>
+>
+> 
+
+
 
 **Project** **Details**
 
@@ -196,6 +214,9 @@ partitions, mount, read custom config
 stored in that partition then based to that selecting a kernel, rootfs.
 Modifying rootfs/initrd using dracut and gobusybox.
 
+> 
+>
+> 
 
 **Tools,** **OS** **and** **Languages:** Coreboot, UEFI, EFI, BIOS,
 Payload, LUKS, PKI, Encryption, GPT, MBR, Payload, GRUB2, clevis, TPM,
@@ -303,6 +324,9 @@ requirement.and bug report
 
 **Duration** **and** **location** : 7 Months : Aeris Comm, Bangalore
 
+> 
+>
+> 
 
 **25.** **Project** **Name:** **ARM** **cortex** **TrustZone,** **mbed**
 **based** **bootloader** **and** **RISC-V** **based** **bootloader**
@@ -406,6 +430,10 @@ balance network load in a persistent way across multiple firewalls
 **19.** **Project** **Name:** **OMCI** **Analyser** **developpment**
 **in** **python**
 
+> 
+>
+> 
+>
 > **Project** **Description:**Writing a OMCI analyser from scratch to
 > analyse OMCI packet capture in hex. It was used for JioFibre testing.
 >
@@ -509,9 +537,9 @@ project **Responsibilities:** using compass4nfv installed opnfv.
 > Installed openstack from devstack and explored horizon **Duration**
 > **and** **location** : 3 months : Xavient Noida
 >
-> **iAmiteshKr@gmail.com,** **+919599806564**
+> 
 >
-> **Amitesh** **Kumar**
+> 
 >
 > **Tools,** **OS** **and** **Languages:** OpenWRT/LEDE, OpenVSwitch,
 > OPNFV, OpenStack **Team** **Size** **:** 7
@@ -609,9 +637,9 @@ project **Responsibilities:** using compass4nfv installed opnfv.
 >
 > **Duration** **and** **location** : 4 months : SafeNet/Gemalto Noida
 >
-> **iAmiteshKr@gmail.com,** **+919599806564**
+> 
 >
-> **Amitesh** **Kumar**
+> 
 >
 > **Tools,** **OS** **and** **Languages:** Xen Hypervisor, CentOS :
 > KMIP, NAE protocol, OpenSSL, C/C++, perl **Team** **Size** : 8
@@ -667,7 +695,6 @@ project **Responsibilities:** using compass4nfv installed opnfv.
 > **Tools,** **OS** **and** **Languages**: Makefile, vim : Embedded
 > Linux : C **Team** **Size** : 4
 
-
 > **Project** **Description:**
 >
 > ● Fixing bugs reported by QA or customer or client.
@@ -705,7 +732,10 @@ project **Responsibilities:** using compass4nfv installed opnfv.
 > ● I Took a reference project and modified and customized it according
 > to the new hardware. This includes kernel porting and then component
 > level customization and debugging.
-
+>
+> 
+>
+> 
 >
 > ● Dev acceptance test.
 >
@@ -807,6 +837,9 @@ project **Responsibilities:** using compass4nfv installed opnfv.
 **2.** **PGD** **Project** **Name:** **OpenCV** **based** **monitoring**
 **system** **Project** **Description:**
 
+> 
+>
+> 
 >
 > ● It was Post Graduation project in which we (5 Engineer) worked to
 > create a public surveillance with the help of web-cam and OpenCV.
@@ -847,4 +880,5 @@ project **Responsibilities:** using compass4nfv installed opnfv.
 > **Duration** **and** **location** : 8 months : Apeejay College of
 > Engg, Gurgaon **Tools,** **OS** **and** **Languages**: PyS60 : Symbian
 > : Python
+>
 >
